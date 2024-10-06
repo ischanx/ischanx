@@ -1,5 +1,17 @@
 ## Hi, I'm Chanx 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ischanx.readme&format=true)
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true" align=right />
+</picture>
+
 Chanx is a web developer with 2 years development experience.
 
 Aspire to bring imaginative thoughts to reality.
@@ -11,17 +23,7 @@ More ideas, more code, more bugs, more surprise.
 
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true" />
-</picture>
+
 
 <br/>
 <picture>
@@ -33,7 +35,7 @@ More ideas, more code, more bugs, more surprise.
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&layout=donut"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&layout=donut" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&layout=donut" align=right />
 </picture>
 
 
