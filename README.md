@@ -6,7 +6,7 @@ Aspire to bring imaginative thoughts to reality.
 
 More ideas, more code, more bugs, more surprise.
 
-- 🔭 I’m currently working on a AI application.
+- 🔭 I’m currently working on an AI web application.
 - 🌱 I’m currently learning anything interesting.
 
 
@@ -25,14 +25,14 @@ More ideas, more code, more bugs, more surprise.
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&theme=dark&layout=donut"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&layout=donut"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true" align=right />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&layout=donut" align=right />
 </picture>
 
 
