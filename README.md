@@ -1,4 +1,41 @@
-## Hi there 👋
+## Hi, I'm Chanx 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ischanx.readme&format=true)
+
+Chanx is a web developer with 2 years development experience.
+
+Aspire to bring imaginative thoughts to reality.
+
+More ideas, more code, more bugs, more surprise.
+
+- 🔭 I’m currently working on a AI application.
+- 🌱 I’m currently learning anything interesting.
+
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true" align=left />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true" align=right />
+</picture>
+
+
 
 <!--
 **ischanx/ischanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
