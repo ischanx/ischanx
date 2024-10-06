@@ -24,7 +24,7 @@ More ideas, more code, more bugs, more surprise.
 
 
 
-
+<!--
 <br/>
 <picture>
   <source
@@ -37,6 +37,7 @@ More ideas, more code, more bugs, more surprise.
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&layout=donut" align=right />
 </picture>
+-->
 
 
 
