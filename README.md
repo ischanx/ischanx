@@ -20,9 +20,10 @@ More ideas, more code, more bugs, more surprise.
     srcset="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true" align=left />
+  <img src="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true" />
 </picture>
 
+<br/>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&theme=dark&layout=donut"
@@ -32,7 +33,7 @@ More ideas, more code, more bugs, more surprise.
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&layout=donut"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&layout=donut" align=right />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&layout=donut" />
 </picture>
 
 
