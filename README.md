@@ -1,5 +1,3 @@
-## Hi, I'm Chanx 👋 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ischanx.readme&format=true)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true&theme=dark"
@@ -12,15 +10,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true" align=right />
 </picture>
 
-Chanx is a web developer with 2 years development experience.
+👋 Hi, I’m Chanx, an experienced front-end developer who began this journey in 2020.
 
-Aspire to bring imaginative thoughts to reality.
+💡 I aspire to bring imaginative thoughts to reality.
 
-More ideas, more code, more bugs, more surprise.
+💭 More ideas, 💻 more code, 🐞 more bugs — and 🎉 more surprises.
 
-- 🔭 I’m currently working on an AI web application.
-- 🌱 I’m currently learning anything interesting.
+🧩 Over the years, I’ve gained solid experience in frontend engineering.
 
+🔭 I’m currently developing an AI-based website building application.
+
+🌱 I continuously learn anything that sparks my curiosity.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ischanx.readme&format=true)
 
 
 
