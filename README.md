@@ -1,3 +1,23 @@
+👋 Hi, I’m **Chanx**, a developer focused on building **AI-powered web applications**.
+
+💡 I enjoy turning imaginative ideas into real products.
+
+💭 More ideas, 💻 more code, 🐞 more bugs — and 🎉 more surprises.
+
+### 🚀 Work Experience
+
+**2020 – 2022**: Web programming practice platform similar to LeetCode. (Vue)
+
+**2021 – 2023**: Online collaborative document system. (React)
+
+**2023 – Present**: AI-powered website builder. (React, Next.js, NestJS, LLM)
+
+### 🔭 Current Focus
+AI + Web Full-Stack Development
+
+---
+
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true&theme=dark"
@@ -7,53 +27,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true" align=right />
+  <img src="https://github-readme-stats.vercel.app/api?username=ischanx&show_icons=true" align=left />
 </picture>
 
-👋 Hi, I’m Chanx, an experienced front-end developer who began this journey in 2020.
-
-💡 I aspire to bring imaginative thoughts to reality.
-
-💭 More ideas, 💻 more code, 🐞 more bugs — and 🎉 more surprises.
-
-🧩 Over the years, I’ve gained solid experience in frontend engineering.
-
-🔭 I’m currently developing an AI-based website building application.
-
-🌱 I continuously learn anything that sparks my curiosity.
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ischanx.readme&format=true)
-
-
-
-<!--
-<br/>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&theme=dark&layout=donut"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&layout=donut"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ischanx&show_icons=true&layout=donut" align=right />
-</picture>
--->
-
-
-
-<!--
-**ischanx/ischanx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ischanx.readme&format=true" align=left />
